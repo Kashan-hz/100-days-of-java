@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.time.Month;
 
 public class birthday {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
 
         int birthDate = 25;
