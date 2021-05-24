@@ -1,7 +1,7 @@
 public class prime {
-    public static void main(String args[]){
-        int i = 0;
-        int num=0;
+    public static void main(String[] args){
+        int i ;
+        int num;
 
         for(i=1;i<100;i++){
             int c=0;

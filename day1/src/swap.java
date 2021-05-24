@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class swap {
-    public static void main(String args[]){
+    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Numbers you want to swap");
         int first=sc.nextInt(),second=sc.nextInt();
